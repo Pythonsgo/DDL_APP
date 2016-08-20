@@ -2,7 +2,6 @@
 Flask==0.10.1
 gunicorn==19.4.1
 Jinja2==2.7.3
-numpy==1.9.2
 pandas==0.16.0
 pickleshare==0.5
 oauth==1.0.1
